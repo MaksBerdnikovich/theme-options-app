@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 90 70" style="enable-background:new 0 0 90 70;" xml:space="preserve">
+<g>
+	<path d="M78,0H59h-5H35h-5H11H0v70h90V0H78z M77,1v11H60V1H77z M53,1v11H36V1H53z M29,1v11H12V1H29z M89,69H1V1h10v12h19V1h5v12h19
+		V1h5v12h19V1h11V69z"/>
+	<rect x="11" y="16" width="19" height="1"/>
+	<rect x="35" y="16" width="19" height="1"/>
+	<rect x="59" y="16" width="19" height="1"/>
+	<rect x="11" y="38" width="19" height="1"/>
+	<rect x="35" y="38" width="19" height="1"/>
+	<rect x="59" y="38" width="19" height="1"/>
+	<path d="M11,35h19V22H11V35z M12,23h17v11H12V23z"/>
+	<path d="M54,22H35v13h19V22z M53,34H36V23h17V34z"/>
+	<path d="M59,35h19V22H59V35z M60,23h17v11H60V23z"/>
+	<path d="M54.5,50h-20c-1.9,0-3.5,1.6-3.5,3.5s1.6,3.5,3.5,3.5h20c1.9,0,3.5-1.6,3.5-3.5S56.4,50,54.5,50z M54.5,56h-20
+		c-1.4,0-2.5-1.1-2.5-2.5s1.1-2.5,2.5-2.5h20c1.4,0,2.5,1.1,2.5,2.5S55.9,56,54.5,56z"/>
+</g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 90 70" style="enable-background:new 0 0 90 70;" xml:space="preserve">
+<g>
+	<path d="M0,30h21V12H0V30z M1,13h19v16H1V13z"/>
+	<path d="M0,50h21V32H0V50z M1,33h19v16H1V33z"/>
+	<path d="M0,70h21V52H0V70z M1,53h19v16H1V53z"/>
+	<path d="M23,50h21V32H23V50z M24,33h19v16H24V33z"/>
+	<path d="M23,70h21V52H23V70z M24,53h19v16H24V53z"/>
+	<path d="M46,50h21V32H46V50z M47,33h19v16H47V33z"/>
+	<path d="M46,70h21V52H46V70z M47,53h19v16H47V53z"/>
+	<path d="M69,30h21V12H69V30z M70,13h19v16H70V13z"/>
+	<path d="M69,50h21V32H69V50z M70,33h19v16H70V33z"/>
+	<path d="M69,70h21V52H69V70z M70,53h19v16H70V53z"/>
+	<rect x="4" y="25" width="7" height="1"/>
+	<rect x="4" y="45" width="7" height="1"/>
+	<rect x="4" y="65" width="7" height="1"/>
+	<polygon points="31,29 24,29 24,13 31,13 31,12 23,12 23,30 44,30 44,29 43,29 	"/>
+	<rect x="27" y="45" width="7" height="1"/>
+	<rect x="27" y="65" width="7" height="1"/>
+	<rect x="50" y="45" width="7" height="1"/>
+	<rect x="50" y="65" width="7" height="1"/>
+	<rect x="73" y="25" width="7" height="1"/>
+	<rect x="73" y="45" width="7" height="1"/>
+	<rect x="73" y="65" width="7" height="1"/>
+	<rect y="2" width="7" height="1"/>
+	<rect x="12" y="2" width="7" height="1"/>
+	<rect x="24" y="2" width="7" height="1"/>
+	<rect x="37" y="2" width="7" height="1"/>
+	<path d="M87.5,0C86.1,0,85,1.1,85,2.5v0C85,3.9,86.1,5,87.5,5C88.9,5,90,3.9,90,2.5v0C90,1.1,88.9,0,87.5,0z M87.5,4
+		C86.7,4,86,3.3,86,2.5C86,1.7,86.7,1,87.5,1S89,1.7,89,2.5C89,3.3,88.3,4,87.5,4z"/>
+	<polygon points="60,13 66,13 66,29 60,29 47,29 46,29 46,30 67,30 67,12 60,12 	"/>
+	<path d="M58,6H33v21h25V6z M57,26H34V7h23V26z"/>
+	<rect x="37" y="10" width="9" height="1"/>
+	<rect x="37" y="13" width="7" height="1"/>
+	<rect x="37" y="16" width="9" height="1"/>
+	<rect x="37" y="19" width="7" height="1"/>
+	<rect x="37" y="22" width="5" height="1"/>
+	<rect x="27" y="25" width="4" height="1"/>
+</g>
+</svg>
